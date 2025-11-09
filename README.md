@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/m-elshafei/" target="_blank"><img src="https://img.shields.io/badge/-Moustafa%20Elshafei-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alshafhy/" target="_blank"><img src="https://img.shields.io/badge/-Moustafa%20Elshafei-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/MoustafaElshafei" target="_blank"><img src="https://img.shields.io/badge/-Moustafa%20Elshafei-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="whatsapp://send?phone=+1067935373"><img src="https://img.shields.io/badge/-Moustafa%20Elshafei-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
@@ -38,10 +38,10 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-elshafei&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alshafhy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br><br><br><br><br><br><br>
-<!-- <a href="https://komarev.com/ghpvc/?username=m-shafei&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=m-elshafei&style=for-the-badge">
+<!-- <a href="https://komarev.com/ghpvc/?username=alshafhy&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=alshafhy&style=for-the-badge">
 </a> -->
 
 
